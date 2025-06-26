@@ -22,7 +22,7 @@
 
 ## 📬 Contato
 
-📧 Meu Gmail: **arthurschmeling@gmail.com**
+📧 Meu Gmail: **arthurschmeling03@gmail.com**
 
 ---
 
@@ -38,5 +38,5 @@
 
 ---
 
-☁️ _“Programar é transformar café em código. E um pouco de criatividade também!”_
+
 
