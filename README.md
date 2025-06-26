@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**arthurschmeling/arthurschmeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Arthur Schmeling Pereira
 
-Here are some ideas to get you started:
+🎓 Atualmente, ainda não estou trabalhando, mas estou **cursando e me aperfeiçoando na área de tecnologia!**  
+🚀 Tenho explorado várias linguagens e ferramentas, e essas são algumas que já utilizei:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Java  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- ➕ E muitas outras que pretendo aprender no caminho!
+
+---
+
+## 📊 Estatísticas de Linguagens Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurschmeling&layout=donut&theme=tokyonight)
+
+> _*Você pode conferir meus repositórios para ver mais detalhes!*_
+
+---
+
+## 📬 Contato
+
+📧 Meu Gmail: **arthurschmeling@gmail.com**
+
+---
+
+## ✨ Um pouco de animação para deixar tudo mais divertido!
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurschmeling&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurschmeling&layout=compact&theme=tokyonight)
+
+<br/>
+
+![Thanks for visiting!](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+---
+
+☁️ _“Programar é transformar café em código. E um pouco de criatividade também!”_
+
